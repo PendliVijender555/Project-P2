@@ -75,7 +75,7 @@ some of the features which are going to update soon are
 3.Srping Boot and microservices for backend
 
 ### Getting Started:
-git clone https://github.com/SrikanthMidathapalli/ERP_College_Mangement_System.git
+git clone  https://github.com/PendliVijender555/Project-P2
 
 cd my-project
 
